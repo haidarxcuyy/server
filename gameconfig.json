@@ -1,0 +1,8 @@
+[
+  {
+    "version": "1.56.1",
+    "core_url": "http://127.0.0.1:8080",
+    "version_url": "http://127.0.0.1:8080/cdn/live/",
+    "resource_url": "http://127.0.0.1:8080/cdn/"
+  }
+]
